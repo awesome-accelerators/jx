@@ -1,0 +1,7 @@
+AWS_REGION=eu-west-3
+DOMAIN=dbp.dev.alfresco.me
+ENV_PREFIX=dbp
+GIT_USERNAME=paulbrodner
+JENKINS_VERSION=v1.0.14
+JENKINS_CLI=2.0.589
+GIT_API_TOKEN=my-token

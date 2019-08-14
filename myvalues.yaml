@@ -1,0 +1,6 @@
+# i can override any of the values found here:
+# https://github.com/jenkins-x/jenkins-x-platform/blob/master/jenkins-x-platform/values.yaml
+# jenkins:
+#   Master:
+#     Image: "paulbrodner/jenkins"
+#     ImageTag: "latest"  
